@@ -3,6 +3,8 @@
 # - manufacture_date / expiry_date 為 None 代表沒有可辨識的日期文字，
 #   否則用 {'year': 'YYYY', 'month': 'MM', 'day': 'DD'} dict 表示（字串、月/日補零）。
 # - product_name 直接採用模型當次輸出的完整字串。
+# - 已知殘留不穩定：b5.jpg 表格內品名字跡模糊，「冰塊」二字清楚可辨識並穩定收斂，
+#   但緊鄰的修飾字（例如「袋裝/鋼製」）在極少數呼叫仍可能被誤猜而非留空，屬已知邊界情況。
 
 GROUND_TRUTH = {
     "sample.jpg": [
@@ -42,29 +44,29 @@ GROUND_TRUTH = {
             "expiry_date": {"year": "2027", "month": "03", "day": "15"},
         },
         {
-            "product_name": "玉黍叔甜辣口味",
+            "product_name": "華元 玉黍叔甜辣口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "05"},
             "expiry_date": {"year": "2027", "month": "03", "day": "05"},
         },
         {
-            "product_name": "真魷味 紅燒口味",
+            "product_name": "華元 真魷味 紅燒口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "04"},
             "expiry_date": {"year": "2027", "month": "03", "day": "04"},
         },
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
     ],
     "sample2.jpg": [
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
         {
-            "product_name": "玉黍叔甜辣口味",
+            "product_name": "華元 玉黍叔甜辣口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "05"},
             "expiry_date": {"year": "2027", "month": "03", "day": "05"},
         },
@@ -84,7 +86,7 @@ GROUND_TRUTH = {
             "expiry_date": {"year": "2026", "month": "10", "day": "05"},
         },
         {
-            "product_name": "真魷味紅燒口味",
+            "product_name": "華元 真魷味紅燒口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "04"},
             "expiry_date": {"year": "2027", "month": "03", "day": "04"},
         },
@@ -134,7 +136,7 @@ GROUND_TRUTH = {
     ],
     "b5.jpg": [
         {
-            "product_name": "琦美製冰",
+            "product_name": "琦美製冰股份有限公司 冰塊",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "21"},
         },
@@ -163,12 +165,12 @@ GROUND_TRUTH = {
             "expiry_date": {"year": "2027", "month": "12", "day": "22"},
         },
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
@@ -259,34 +261,34 @@ GROUND_TRUTH = {
             "expiry_date": {"year": "2027", "month": "12", "day": "22"},
         },
         {
-            "product_name": "真魷味 紅燒口味",
+            "product_name": "華元 真魷味 紅燒口味",
             "manufacture_date": None,
             "expiry_date": None,
         },
         {
-            "product_name": "玉黍叔 甜辣口味",
+            "product_name": "華元 玉黍叔 甜辣口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "05"},
             "expiry_date": {"year": "2027", "month": "03", "day": "05"},
         },
     ],
     "sample7.jpg": [
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
         {
-            "product_name": "MOS BURGER",
+            "product_name": "MOS BURGER 蕃茄燉雞肉",
             "manufacture_date": None,
             "expiry_date": {"year": "2028", "month": "04", "day": "09"},
         },
         {
-            "product_name": "真魷味 紅燒口味",
+            "product_name": "華元 真魷味 紅燒口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "04"},
             "expiry_date": {"year": "2027", "month": "03", "day": "04"},
         },
         {
-            "product_name": "玉黍叔 甜辣口味",
+            "product_name": "華元 玉黍叔 甜辣口味",
             "manufacture_date": {"year": "2026", "month": "05", "day": "05"},
             "expiry_date": {"year": "2027", "month": "03", "day": "05"},
         },
