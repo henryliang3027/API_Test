@@ -1,6 +1,14 @@
 pvenv/
+paddle_venv/
 .env
 __pycache__/
 *.pyc
 models/
 result/*
+llama-b1287/
+vlmvenv/*
+test_images/*
+eval_dataset/*
+MiniCPM/MiniCPM-V-4_5/
+MiniCPM/MiniCPM-V-4_5-int4/
+eval/results/*

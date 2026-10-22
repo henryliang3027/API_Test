@@ -52,7 +52,7 @@ def format_date(date_dict):
 
 
 def draw_result(image_path: str, data: dict, output_path: str):
-    """把 JSON 結果（mask、box_id、confidence、品項、日期）畫在原圖上"""
+    """把 JSON 結果（mask、box_id、品項、日期）畫在原圖上"""
     image = Image.open(image_path).convert("RGBA")
     width, height = image.size
     overlay = Image.new("RGBA", image.size, (0, 0, 0, 0))
@@ -89,14 +89,17 @@ def draw_result(image_path: str, data: dict, output_path: str):
         polygon = polygons[i]
 
         product = box.get("product")
-        product_str = (
-            f"{product['brand']} {product['name']}" if product else "未知品項"
-        )
+        if product:
+            brand = product.get("brand_name") or ""
+            name = product.get("product_name") or "未知品項"
+            product_str = f"[{brand}] {name}".strip()
+        else:
+            product_str = "未知品項"
         expiry_str = format_date(box.get("expiry_date"))
         manufacture_str = format_date(box.get("manufacture_date"))
 
         label_lines = [
-            f"#{box['box_id']} conf={box['confidence']:.2f}",
+            f"#{box['box_id']}",
             f"{product_str}",
             f"exp={expiry_str} mfg={manufacture_str}",
         ]
@@ -122,7 +125,7 @@ def main():
     parser.add_argument(
         "image",
         nargs="?",
-        default="test_images/sample.jpg",
+        default="test_images/v2/b6.jpg",
         help="要測試的圖片路徑（預設 test_images/sample.jpg）",
     )
     parser.add_argument(
@@ -148,10 +151,16 @@ def main():
     print(f"filename    = {data['filename']}")
     print(f"total_boxes = {data['total_boxes']}")
     for box in data["boxes"]:
-        product = box["product"]["name"] if box["product"] else "未知品項"
+        product = box.get("product")
+        if product:
+            brand = product.get("brand_name") or ""
+            name = product.get("product_name") or "未知品項"
+            product_str = f"{brand}{name}"
+        else:
+            product_str = "未知品項"
         print(
-            f"  box_id={box['box_id']} confidence={box['confidence']:.2f} "
-            f"product={product} expiry_date={format_date(box['expiry_date'])}"
+            f"  box_id={box['box_id']} "
+            f"product={product_str} expiry_date={format_date(box['expiry_date'])}"
         )
 
     draw_result(str(image_path), data, output_path)

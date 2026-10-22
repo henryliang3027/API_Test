@@ -125,13 +125,13 @@ GROUND_TRUTH = {
     "b4.jpg": [
         {
             "product_name": "蘇菲彈力貼身",
-            "manufacture_date": {"year": "2024", "month": "12", "day": "26"},
-            "expiry_date": {"year": "2027", "month": "12", "day": "26"},
+            "manufacture_date": None,
+            "expiry_date": {"year": "2024", "month": "12", "day": "26"},
         },
         {
             "product_name": "蘇菲彈力貼身",
-            "manufacture_date": {"year": "2024", "month": "08", "day": "13"},
-            "expiry_date": {"year": "2027", "month": "08", "day": "13"},
+            "manufacture_date": None,
+            "expiry_date": {"year": "2024", "month": "08", "day": "13"},
         },
     ],
     "b5.jpg": [

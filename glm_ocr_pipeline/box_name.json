@@ -1,0 +1,1180 @@
+{
+  "products": [
+    {
+      "brand": "樂事",
+      "name": "洋芋片 青檸享清新口味",
+      "keywords": [
+        "樂事",
+        "洋芋片",
+        "青檸"
+      ]
+    },
+    {
+      "brand": "華元",
+      "name": "玉黍叔 甜辣口味",
+      "keywords": [
+        "玉黍叔",
+        "甜辣口味"
+      ]
+    },
+    {
+      "brand": "華元",
+      "name": "真魷味 紅燒口味",
+      "keywords": [
+        "真魷味",
+        "真鱿味",
+        "紅燒口味"
+      ]
+    },
+    {
+      "brand": "比菲多",
+      "name": "益生菌小Q蒟蒻果凍 葡萄",
+      "keywords": [
+        "小Q",
+        "蒟蒻",
+        "益生菌",
+        "比菲多"
+      ]
+    },
+    {
+      "brand": "來一客",
+      "name": "韓式泡菜風味",
+      "keywords": [
+        "韓式泡菜",
+        "Kimchi"
+      ]
+    },
+    {
+      "brand": "來一客",
+      "name": "牛肉蔬菜風味",
+      "keywords": [
+        "牛肉蔬菜"
+      ]
+    },
+    {
+      "brand": "來一客",
+      "name": "鮮蝦魚板風味",
+      "keywords": [
+        "鮮蝦魚板",
+        "Seafood"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "蕃茄燉雞肉",
+      "keywords": [
+        "MOS BURGER",
+        "蕃茄燉雞肉"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "蕃茄燉牛肉",
+      "keywords": [
+        "MOS BURGER",
+        "蕃茄燉牛肉"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "日式咖哩雞肉",
+      "keywords": [
+        "MOS BURGER",
+        "日式咖哩雞肉"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "日式咖哩牛肉",
+      "keywords": [
+        "MOS BURGER",
+        "日式咖哩牛肉"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "日式咖哩豬肉",
+      "keywords": [
+        "MOS BURGER",
+        "日式咖哩豬肉"
+      ]
+    },
+    {
+      "brand": "MOS BURGER",
+      "name": "摩斯雞塊",
+      "keywords": [
+        "摩斯雞塊"
+      ]
+    },
+    {
+      "brand": "維他露",
+      "name": "P 暢快活力B2+C",
+      "keywords": [
+        "維他露",
+        "維他露P",
+        "暢快活力"
+      ]
+    },
+    {
+      "brand": "科學麵",
+      "name": "原味",
+      "keywords": [
+        "科學麵",
+        "科學超",
+        "科学超"
+      ]
+    },
+    {
+      "brand": "鴻鑫福",
+      "name": "390 紙湯杯",
+      "keywords": [
+        "390 紙湯杯",
+        "390紙湯杯",
+        "鴻鑫福"
+      ]
+    },
+    {
+      "brand": "雁牌",
+      "name": "薑母茶",
+      "keywords": [
+        "雁牌",
+        "薑母茶",
+        "GINGER TEA"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "冰塊",
+      "keywords": [
+        "統一冰塊",
+        "统一冰塊"
+      ]
+    },
+    {
+      "brand": "蘇菲",
+      "name": "彈力貼身",
+      "keywords": [
+        "蘇菲",
+        "SOFY",
+        "彈力貼身"
+      ]
+    },
+    {
+      "brand": "琦美製冰",
+      "name": "冰塊",
+      "keywords": [
+        "琦美製冰",
+        "琦美"
+      ]
+    },
+    {
+      "brand": "Paxlovid",
+      "name": "150 mg/100 mg",
+      "keywords": [
+        "Paxlovid",
+        "nirmatrelvir"
+      ]
+    },
+    {
+      "brand": "樂事波樂",
+      "name": "洋芋片 東京照燒烤雞串口味",
+      "keywords": [
+        "樂事波樂",
+        "洋芋片",
+        "東京照燒"
+      ]
+    },
+    {
+      "brand": "樂事",
+      "name": "洋芋片 美國經典原味",
+      "keywords": [
+        "樂事",
+        "洋芋片",
+        "美國經典原味"
+      ]
+    },
+    {
+      "brand": "樂事",
+      "name": "洋芋片 瑞士香濃起司口味",
+      "keywords": [
+        "樂事",
+        "洋芋片",
+        "瑞士香濃起司"
+      ]
+    },
+    {
+      "brand": "樂事經濟包",
+      "name": "洋芋片 海苔壽司口味",
+      "keywords": [
+        "樂事經濟包",
+        "洋芋片",
+        "海苔壽司"
+      ]
+    },
+    {
+      "brand": "奇多",
+      "name": "玉米棒 家常起司口味",
+      "keywords": [
+        "奇多",
+        "玉米棒",
+        "家常起司"
+      ]
+    },
+    {
+      "brand": "多力多滋",
+      "name": "玉米片 超濃起司口味",
+      "keywords": [
+        "多力多滋",
+        "玉米片",
+        "超濃起司"
+      ]
+    },
+    {
+      "brand": "森永",
+      "name": "HI-CHEW Q彈軟糖袋裝(特選水果口味)",
+      "keywords": [
+        "森永",
+        "HI-CHEW",
+        "Q彈軟糖"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳 原味低糖",
+      "keywords": [
+        "完膳",
+        "原味低糖"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳 優蛋白營養素",
+      "keywords": [
+        "完膳",
+        "優蛋白營養素"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳 經典香草",
+      "keywords": [
+        "完膳",
+        "經典香草"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳 3重優蛋白",
+      "keywords": [
+        "完膳",
+        "3重優蛋白"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳營養素 癌症適用EPA配方",
+      "keywords": [
+        "完膳",
+        "癌症適用",
+        "EPA配方"
+      ]
+    },
+    {
+      "brand": "桂格",
+      "name": "完膳 原味無糖",
+      "keywords": [
+        "完膳",
+        "原味無糖"
+      ]
+    },
+    {
+      "brand": "益富",
+      "name": "益力康 高纖",
+      "keywords": [
+        "益力康",
+        "Efione",
+        "高纖"
+      ]
+    },
+    {
+      "brand": "益富",
+      "name": "益力壯17 營養均衡配方 原味",
+      "keywords": [
+        "益力壯",
+        "益力壮",
+        "營養均衡配方"
+      ]
+    },
+    {
+      "brand": "百仕可",
+      "name": "復易佳3000 原味升級",
+      "keywords": [
+        "百仕可",
+        "BOSCOGEN",
+        "復易佳"
+      ]
+    },
+    {
+      "brand": "味王",
+      "name": "麻油雞湯麵",
+      "keywords": [
+        "味王",
+        "VE WONG",
+        "麻油"
+      ]
+    },
+    {
+      "brand": "味王",
+      "name": "香菇肉羹湯麵",
+      "keywords": [
+        "味王",
+        "VE WONG",
+        "香菇"
+      ]
+    },
+    {
+      "brand": "統一麵",
+      "name": "鮮蝦風味",
+      "keywords": [
+        "統一麵",
+        "鮮蝦風味",
+        "Shrimp Flavor"
+      ]
+    },
+    {
+      "brand": "統一麵",
+      "name": "蔥燒牛肉風味",
+      "keywords": [
+        "統一麵",
+        "蔥燒牛肉風味"
+      ]
+    },
+    {
+      "brand": "統一脆麵",
+      "name": "原味",
+      "keywords": [
+        "統一脆麵",
+        "统一脆麵"
+      ]
+    },
+    {
+      "brand": "VITALON",
+      "name": "舒跑 Super Supau",
+      "keywords": [
+        "舒跑",
+        "Super Supau",
+        "Supau"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "H2O Water 純水",
+      "keywords": [
+        "H2O Water",
+        "H2O"
+      ]
+    },
+    {
+      "brand": "水事紀",
+      "name": "麥飯石礦泉水",
+      "keywords": [
+        "水事紀",
+        "麥飯石礦泉水"
+      ]
+    },
+    {
+      "brand": "麥香",
+      "name": "紅茶",
+      "keywords": [
+        "麥香",
+        "BLACK TEA"
+      ]
+    },
+    {
+      "brand": "黑松",
+      "name": "蜜桃C",
+      "keywords": [
+        "蜜桃C",
+        "Peach"
+      ]
+    },
+    {
+      "brand": "黑松",
+      "name": "FIN 補給飲料",
+      "keywords": [
+        "FIN",
+        "補給飲料",
+        "黑松"
+      ]
+    },
+    {
+      "brand": "黑松純水",
+      "name": "",
+      "keywords": [
+        "黑松純水",
+        "黑松纯水",
+        "PURE WATER"
+      ]
+    },
+    {
+      "brand": "黑松茶花",
+      "name": "無糖綠茶",
+      "keywords": [
+        "黑松茶花",
+        "無糖 綠茶",
+        "無糖綠茶",
+        "茶花"
+      ]
+    },
+    {
+      "brand": "COCO CLUB",
+      "name": "100% Coconut Water",
+      "keywords": [
+        "COCO CLUB",
+        "Coconut Water",
+        "酷椰嶼"
+      ]
+    },
+    {
+      "brand": "茶裏王",
+      "name": "台式綠茶",
+      "keywords": [
+        "茶裏王",
+        "台式綠茶"
+      ]
+    },
+    {
+      "brand": "茶裏王",
+      "name": "焙香紅烏",
+      "keywords": [
+        "茶裏王",
+        "焙香紅烏"
+      ]
+    },
+    {
+      "brand": "奧利多水",
+      "name": "萊姆風味",
+      "keywords": [
+        "奧利多水",
+        "奥利多水",
+        "Oligowater"
+      ]
+    },
+    {
+      "brand": "泰山",
+      "name": "純水",
+      "keywords": [
+        "泰山純水",
+        "泰山纯水"
+      ]
+    },
+    {
+      "brand": "TAISUN 泰山",
+      "name": "強 氣泡水",
+      "keywords": [
+        "TAISUN",
+        "氣泡水"
+      ]
+    },
+    {
+      "brand": "Fami Collection",
+      "name": "天然水",
+      "keywords": [
+        "天然水",
+        "雪山山脈"
+      ]
+    },
+    {
+      "brand": "Fami Collection",
+      "name": "鹼性離子水",
+      "keywords": [
+        "Fami",
+        "Collection",
+        "鹼性離子水"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "PH9.0 鹼性離子水",
+      "keywords": [
+        "PH9.0",
+        "鹼性離子水",
+        "Alkaline water"
+      ]
+    },
+    {
+      "brand": "KOIKEYA",
+      "name": "咔辣姆久 平切洋芋片 咔辣海苔口味",
+      "keywords": [
+        "KOIKEYA",
+        "咔辣姆久",
+        "咔辣海苔"
+      ]
+    },
+    {
+      "brand": "湖池屋",
+      "name": "平切洋芋片 北海道玉米濃湯口味",
+      "keywords": [
+        "湖池屋",
+        "北海道玉米濃湯"
+      ]
+    },
+    {
+      "brand": "PAOS",
+      "name": "泡舒洗潔精 綠茶",
+      "keywords": [
+        "PAOS",
+        "泡舒",
+        "洗潔精"
+      ]
+    },
+    {
+      "brand": "心樸市集",
+      "name": "元氣純水",
+      "keywords": [
+        "心樸市集",
+        "元氣純水",
+        "simple mart"
+      ]
+    },
+    {
+      "brand": "悅氏",
+      "name": "",
+      "keywords": [
+        "悅氏",
+        "悦氏"
+      ]
+    },
+    {
+      "brand": "悅氏",
+      "name": "Light 鹼性水",
+      "keywords": [
+        "悅氏",
+        "悦氏",
+        "Light 鹼性水"
+      ]
+    },
+    {
+      "brand": "悅氏",
+      "name": "陽光空氣 Yes",
+      "keywords": [
+        "悅氏",
+        "悦氏",
+        "陽光",
+        "Yes"
+      ]
+    },
+    {
+      "brand": "偉良牧場",
+      "name": "金鮮蛋",
+      "keywords": [
+        "偉良牧場",
+        "金鮮蛋",
+        "WEL LEUNG"
+      ]
+    },
+    {
+      "brand": "愛之味",
+      "name": "分解茶",
+      "keywords": [
+        "分解茶",
+        "愛之味"
+      ]
+    },
+    {
+      "brand": "味丹",
+      "name": "鹼性竹炭水",
+      "keywords": [
+        "味丹",
+        "竹炭水",
+        "多喝水"
+      ]
+    },
+    {
+      "brand": "味丹",
+      "name": "味味麵 精燉肉燥湯麵",
+      "keywords": [
+        "味丹",
+        "味味麵",
+        "精燉"
+      ]
+    },
+    {
+      "brand": "UNI water",
+      "name": "",
+      "keywords": [
+        "UNI water",
+        "UNI"
+      ]
+    },
+    {
+      "brand": "農心",
+      "name": "辛拉麵",
+      "keywords": [
+        "農心",
+        "辛拉麵",
+        "拉麵"
+      ]
+    },
+    {
+      "brand": "桂格大燕麥片",
+      "name": "嚴選薄片",
+      "keywords": [
+        "桂格大燕麥片",
+        "嚴選薄片"
+      ]
+    },
+    {
+      "brand": "台塩生技",
+      "name": "塩麴 日曬關廟麵",
+      "keywords": [
+        "台塩生技",
+        "TAIYEN",
+        "關廟麵"
+      ]
+    },
+    {
+      "brand": "御茶園",
+      "name": "特撰冰釀綠茶",
+      "keywords": [
+        "御茶園",
+        "冰釀綠茶"
+      ]
+    },
+    {
+      "brand": "補體素",
+      "name": "優蛋白EX 原味",
+      "keywords": [
+        "補體素",
+        "優蛋白EX",
+        "EX強化配方"
+      ]
+    },
+    {
+      "brand": "補體素",
+      "name": "優蛋白 正港優蛋白 原味",
+      "keywords": [
+        "補體素",
+        "正港優蛋白"
+      ]
+    },
+    {
+      "brand": "鮮剖",
+      "name": "100%椰子水",
+      "keywords": [
+        "鮮剖",
+        "100%椰子水",
+        "COCONUT WATER"
+      ]
+    },
+    {
+      "brand": "波蜜",
+      "name": "果菜汁",
+      "keywords": [
+        "波蜜",
+        "果菜汁",
+        "Vegetables Juice"
+      ]
+    },
+    {
+      "brand": "愛買最划算",
+      "name": "純水",
+      "keywords": [
+        "愛買最划算",
+        "super-save"
+      ]
+    },
+    {
+      "brand": "TREE TOP",
+      "name": "樹頂100%純蘋果汁",
+      "keywords": [
+        "TREE TOP",
+        "樹頂",
+        "Apple Juice"
+      ]
+    },
+    {
+      "brand": "阿Q桶麵",
+      "name": "紅椒牛肉風味",
+      "keywords": [
+        "阿Q",
+        "桶麵",
+        "紅椒牛肉"
+      ]
+    },
+    {
+      "brand": "亞培",
+      "name": "原味安素 加CaHMB",
+      "keywords": [
+        "原味安素",
+        "安素",
+        "CaHMB"
+      ]
+    },
+    {
+      "brand": "毛寶",
+      "name": "熱水瓶 開飲機洗淨劑",
+      "keywords": [
+        "毛寶",
+        "開飲機洗淨劑",
+        "熱水瓶"
+      ]
+    },
+    {
+      "brand": "HONEYBEE",
+      "name": "花間集",
+      "keywords": [
+        "HONEYBEE",
+        "花間集"
+      ]
+    },
+    {
+      "brand": "耐雅格生技",
+      "name": "YOI Alkaline Mineral Water",
+      "keywords": [
+        "耐雅格生技",
+        "NAYAQUA",
+        "Alkaline Mineral"
+      ]
+    },
+    {
+      "brand": "維維樂",
+      "name": "R3活力平衡飲品PLUS(蘋果口味)",
+      "keywords": [
+        "維維樂R3",
+        "活力平衡飲品PLUS",
+        "蘋果口味"
+      ]
+    },
+    {
+      "brand": "ACE SCIENCE",
+      "name": "R3 幼兒活力平衡飲品(柚子口味)",
+      "keywords": [
+        "ACE SCIENCE",
+        "幼兒活力平衡飲品",
+        "柚子口味"
+      ]
+    },
+    {
+      "brand": "華元",
+      "name": "波的多 洋芋片 蚵仔煎口味",
+      "keywords": [
+        "波的多",
+        "蚵仔煎口味"
+      ]
+    },
+    {
+      "brand": "華元",
+      "name": "玉黍叔 漢堡口味",
+      "keywords": [
+        "玉黍叔",
+        "漢堡口味"
+      ]
+    },
+    {
+      "brand": "滿漢大餐",
+      "name": "蔥燒牛肉麵",
+      "keywords": [
+        "滿漢大餐",
+        "满汉大餐",
+        "蔥燒牛肉麵"
+      ]
+    },
+    {
+      "brand": "滿漢大餐",
+      "name": "麻辣鍋牛肉麵",
+      "keywords": [
+        "滿漢大餐",
+        "满汉大餐",
+        "麻辣鍋牛肉麵"
+      ]
+    },
+    {
+      "brand": "御茶園",
+      "name": "日式紅茶",
+      "keywords": [
+        "御茶園",
+        "日式紅茶",
+        "和紅茶"
+      ]
+    },
+    {
+      "brand": "御茶園",
+      "name": "台灣四季春",
+      "keywords": [
+        "御茶園",
+        "台灣四季春",
+        "四季春"
+      ]
+    },
+    {
+      "brand": "茶裏王",
+      "name": "日式無糖綠茶",
+      "keywords": [
+        "茶裏王",
+        "日式無糖綠茶",
+        "日式無糖"
+      ]
+    },
+    {
+      "brand": "Fami Collection",
+      "name": "竹炭天然鹼性水",
+      "keywords": [
+        "竹炭天然鹼性水",
+        "竹炭天然"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "古早味紅茶",
+      "keywords": [
+        "古早味紅茶"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "琥珀紅茶",
+      "keywords": [
+        "琥珀紅茶"
+      ]
+    },
+    {
+      "brand": "原萃",
+      "name": "玉露綠茶",
+      "keywords": [
+        "原萃",
+        "玉露",
+        "原萃綠茶",
+        "原萃 綠茶"
+      ]
+    },
+    {
+      "brand": "原萃",
+      "name": "綠茶 抹茶入り",
+      "keywords": [
+        "原萃",
+        "抹茶",
+        "原萃綠茶",
+        "原萃 綠茶"
+      ]
+    },
+    {
+      "brand": "原萃",
+      "name": "錫蘭無糖紅茶",
+      "keywords": [
+        "原萃",
+        "錫蘭",
+        "無糖紅茶"
+      ]
+    },
+    {
+      "brand": "原萃",
+      "name": "烏龍茶",
+      "keywords": [
+        "原萃",
+        "烏龍"
+      ]
+    },
+    {
+      "brand": "Lipton 立頓",
+      "name": "原味奶茶",
+      "keywords": [
+        "Lipton",
+        "立頓",
+        "原味奶茶"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "咖啡廣場",
+      "keywords": [
+        "咖啡廣場",
+        "CafePlaza",
+        "Cafe Plaza"
+      ]
+    },
+    {
+      "brand": "Coca-Cola",
+      "name": "可口可樂",
+      "keywords": [
+        "Coca-Cola",
+        "可口可樂",
+        "CocaCola"
+      ]
+    },
+    {
+      "brand": "台灣啤酒",
+      "name": "金牌",
+      "keywords": [
+        "台灣啤酒",
+        "台湾啤酒",
+        "TAIWAN BEER",
+        "金牌"
+      ]
+    },
+    {
+      "brand": "台灣啤酒",
+      "name": "CLASSIC",
+      "keywords": [
+        "台灣啤酒",
+        "台湾啤酒",
+        "CLASSIC"
+      ]
+    },
+    {
+      "brand": "KIRIN",
+      "name": "一番搾り",
+      "keywords": [
+        "一番搾",
+        "KIRIN"
+      ]
+    },
+    {
+      "brand": "KIRIN",
+      "name": "淡麗 GREEN LABEL",
+      "keywords": [
+        "GREEN LABEL",
+        "淡麗"
+      ]
+    },
+    {
+      "brand": "Asahi",
+      "name": "SUPER DRY",
+      "keywords": [
+        "Asahi",
+        "SUPER DRY"
+      ]
+    },
+    {
+      "brand": "Orion",
+      "name": "",
+      "keywords": [
+        "Orion"
+      ]
+    },
+    {
+      "brand": "Budweiser",
+      "name": "KING OF BEERS",
+      "keywords": [
+        "Budweiser",
+        "KING OF BEERS"
+      ]
+    },
+    {
+      "brand": "POCARI SWEAT",
+      "name": "寶礦力水得",
+      "keywords": [
+        "POCARI",
+        "寶礦力"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "UNI water",
+      "keywords": [
+        "UNI water",
+        "UNIwater",
+        "UNI WATER"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "冬瓜茶",
+      "keywords": [
+        "冬瓜茶"
+      ]
+    },
+    {
+      "brand": "MONSTER ENERGY",
+      "name": "",
+      "keywords": [
+        "MONSTER"
+      ]
+    },
+    {
+      "brand": "Red Bull",
+      "name": "",
+      "keywords": [
+        "Red Bull",
+        "RedBull",
+        "紅牛"
+      ]
+    },
+    {
+      "brand": "麥香",
+      "name": "綠茶",
+      "keywords": [
+        "麥香",
+        "麥香綠茶",
+        "麥香 綠茶"
+      ]
+    },
+    {
+      "brand": "麥香",
+      "name": "阿薩姆紅茶",
+      "keywords": [
+        "麥香",
+        "阿薩姆紅茶",
+        "ASSAM"
+      ]
+    },
+    {
+      "brand": "統一",
+      "name": "阿薩姆奶茶",
+      "keywords": [
+        "阿薩姆奶茶"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "黑豆決明子",
+      "keywords": [
+        "黑豆決明子",
+        "決明子"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "黃金蕎麥茶",
+      "keywords": [
+        "黃金蕎麥茶",
+        "蕎麥茶"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "金萱二十七",
+      "keywords": [
+        "金萱二十七",
+        "金萱"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "檸檬氣泡水",
+      "keywords": [
+        "檸檬氣泡水",
+        "氣泡水"
+      ]
+    },
+    {
+      "brand": "UCC",
+      "name": "BLACK 無糖黑咖啡",
+      "keywords": [
+        "UCC BLACK",
+        "無糖黑咖啡",
+        "BLACK 無糖",
+        "無糖咖啡"
+      ]
+    },
+    {
+      "brand": "UCC",
+      "name": "AROMA BREW 艾洛瑪咖啡",
+      "keywords": [
+        "AROMA BREW",
+        "艾洛瑪"
+      ]
+    },
+    {
+      "brand": "光泉",
+      "name": "冷泡茶",
+      "keywords": [
+        "冷泡茶"
+      ]
+    },
+    {
+      "brand": "維他露",
+      "name": "每朝健康",
+      "keywords": [
+        "每朝健康"
+      ]
+    },
+    {
+      "brand": "維他露",
+      "name": "每朝雙纖",
+      "keywords": [
+        "每朝雙纖",
+        "每朝双纖"
+      ]
+    },
+    {
+      "brand": "卡迪那",
+      "name": "德州薯條 番茄汁口味",
+      "keywords": [
+        "卡迪那",
+        "德州薯條",
+        "德州"
+      ]
+    },
+    {
+      "brand": "維力",
+      "name": "炸醬麵",
+      "keywords": [
+        "炸醬麵",
+        "維力"
+      ]
+    },
+    {
+      "brand": "OATLY",
+      "name": "燕麥奶",
+      "keywords": [
+        "OATLY",
+        "OAT-LY",
+        "Oatly"
+      ]
+    },
+    {
+      "brand": "if",
+      "name": "100% 椰子水",
+      "keywords": [
+        "if 100%",
+        "if100%",
+        "COCONUT WATER",
+        "Coconut Water"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "深煎",
+      "keywords": [
+        "深煎"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "玉米鬚茶",
+      "keywords": [
+        "玉米鬚茶"
+      ]
+    },
+    {
+      "brand": "古道",
+      "name": "梅子綠茶",
+      "keywords": [
+        "梅子綠茶"
+      ]
+    },
+    {
+      "brand": "古道",
+      "name": "酸梅湯",
+      "keywords": [
+        "酸梅湯"
+      ]
+    },
+    {
+      "brand": "evian",
+      "name": "",
+      "keywords": [
+        "evian",
+        "Evian"
+      ]
+    },
+    {
+      "brand": "",
+      "name": "冰火",
+      "keywords": [
+        "冰火"
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@ import time
 
 from dotenv import load_dotenv
 
-from draw_utils import draw_result
-from gemini_ocr import get_client, ocr_image
+from gemini_pipeline.draw_utils import draw_result
+from gemini_pipeline.gemini_ocr import get_client, ocr_image
 
 load_dotenv()
 
